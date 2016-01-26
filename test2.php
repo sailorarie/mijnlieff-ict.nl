@@ -1,2 +1,2 @@
 nog een test. Nu met nieuwe teskt. En 
-een nieuwe regel
+een nieuwe regel. Nu met een punt.
