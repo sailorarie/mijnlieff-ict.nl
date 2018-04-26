@@ -1,3 +1,0 @@
-<<<<<<< HEAD
-nog een test. Nu met nieuwe teskt...
->>>>>>> e16ea25e1f1888d818fd6edfb81aeb69496b6b50
