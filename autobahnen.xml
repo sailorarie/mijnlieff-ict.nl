@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-16T16:52:58.736Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:69.0) Gecko/20100101 Firefox/69.0" version="12.1.1" etag="iFrChQnh65yfRD2VuVvg" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-16T16:55:13.785Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:69.0) Gecko/20100101 Firefox/69.0" version="12.1.1" etag="rnu_2ymB5xvGygVF19iu" type="github" pages="1">
   <diagram id="9fb4a859-60fe-3197-154a-429c24b2bafb" name="Page-1">
     <mxGraphModel dx="1371" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7" value="Biebelried" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="460" y="520" width="40" height="20" as="geometry"/>
+          <mxGeometry x="490" y="520" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="8" value="A7 (200k)" style="endArrow=none;html=1;fontColor=#000000;entryX=0.25;entryY=0;exitX=0.75;exitY=1;" parent="1" source="25" target="7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -45,10 +45,10 @@
           <mxGeometry x="280" y="440" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="12" value="Dortmund West" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="200" y="260" width="40" height="20" as="geometry"/>
+          <mxGeometry x="210" y="220" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="13" value="Oberhausen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="90" y="230" width="40" height="20" as="geometry"/>
+          <mxGeometry x="60" y="230" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="15" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;" parent="1" target="13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -78,7 +78,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="25" value="Kassel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="520" y="260" width="40" height="20" as="geometry"/>
+          <mxGeometry x="470" y="320" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="30" value="" style="endArrow=none;html=1;" parent="1" source="11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -129,7 +129,7 @@
             <mxPoint x="480" y="800" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="40" value="Dortmund West - Kassel - Biebelried (395k)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="40" value="Dortmund West - Kassel - Biebelried (377)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="890" width="300" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="41" value="Dortmund West - Seligenstadt - Biebelried (344k)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -212,7 +212,7 @@
           <mxGeometry x="300" y="30" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="6fhOcaH598fhLJR9Hmvr-64" value="Kreuz Wünnenberg / Haaren" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="360" y="190" width="40" height="20" as="geometry"/>
+          <mxGeometry x="390" y="270" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="6fhOcaH598fhLJR9Hmvr-65" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6fhOcaH598fhLJR9Hmvr-63" target="6fhOcaH598fhLJR9Hmvr-64">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -233,7 +233,7 @@
         </mxCell>
         <mxCell id="6fhOcaH598fhLJR9Hmvr-68" value="A2/A1/A44 (107k)" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="6fhOcaH598fhLJR9Hmvr-67">
           <mxGeometry x="0.2799" y="2" relative="1" as="geometry">
-            <mxPoint as="offset"/>
+            <mxPoint x="29.5" y="8.5" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="6fhOcaH598fhLJR9Hmvr-69" value="" style="endArrow=none;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="25" target="6fhOcaH598fhLJR9Hmvr-64">
@@ -244,7 +244,7 @@
         </mxCell>
         <mxCell id="6fhOcaH598fhLJR9Hmvr-70" value="A44 (70k)" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="6fhOcaH598fhLJR9Hmvr-69">
           <mxGeometry x="0.2799" y="2" relative="1" as="geometry">
-            <mxPoint as="offset"/>
+            <mxPoint x="19.5" y="-2.5" as="offset"/>
           </mxGeometry>
         </mxCell>
       </root>
