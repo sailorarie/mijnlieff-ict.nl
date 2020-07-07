@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-07-07T14:14:08.668Z" agent="5.0 (Macintosh)" version="13.3.9" etag="mRwgUB7vrUkOsf3di3sJ" type="github"><diagram id="lunRRe2EwSeKriJDAwye">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-07T14:14:49.460Z" agent="5.0 (Macintosh)" etag="ti1mS_p7KGnmjZ7rdjX6" version="13.3.9" type="github">
+  <diagram id="lunRRe2EwSeKriJDAwye" name="Page-1">
+    <mxGraphModel dx="1492" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BnBD0lyTiDFalFV81o5i-1" value="Albert Heijn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="160" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BnBD0lyTiDFalFV81o5i-2" value="Albert Heijn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BnBD0lyTiDFalFV81o5i-3" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BnBD0lyTiDFalFV81o5i-1" target="BnBD0lyTiDFalFV81o5i-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="440" as="sourcePoint" />
+            <mxPoint x="450" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
